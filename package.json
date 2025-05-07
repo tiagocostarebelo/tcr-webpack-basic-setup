@@ -1,0 +1,11 @@
+{
+  "name": "tcr-webpack-starter-setup",
+  "version": "1.0.0",
+  "description": "JS Webpack starter setup for Frontend development projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Costa Rebelo",
+  "license": "MIT"
+}
